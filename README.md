@@ -1,5 +1,5 @@
 # hesapmakinesi
-# hesap-makinesi
+
 actor hesap_makinesi{
 var hucre: Int=0;
 
@@ -32,3 +32,5 @@ public func temizle() : async () {
 };
 
 };
+
+https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=3467996777
